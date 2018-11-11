@@ -1,7 +1,7 @@
   <div class="container main-menu">
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index-2.html"><img src="<?php echo base_url('site_assets/'); ?>img/logo.png" alt="" title="" /></a>
+				        <a href="<?php echo base_url(); ?>"><img src="<?php echo base_url('site_assets/'); ?>img/logo.png" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
