@@ -122,9 +122,9 @@
 								<div class="thumb">
 									<img src="<?php echo base_url('site_assets/'); ?>img/s1.jpg" alt="">									
 								</div>
-								<h4>Automotive Engineering</h4>
+								<h4>Hospital Management and Information System - HMIS</h4>
 								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
+									Collection, compilation, analysis and interpretation of data for effective use as information which helps in better planning, <br><a href="#">Read More</a>
 								</p>
 							</div>
 						</div>
@@ -133,9 +133,9 @@
 								<div class="thumb">
 									<img src="<?php echo base_url('site_assets/'); ?>img/s2.jpg" alt="">									
 								</div>
-								<h4>Construction & Engineering</h4>
+								<h4>Laboratory Information System - LIS</h4>
 								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
+									A software system that records, manages, and stores data for hospital laboratories. A LIS has been most adept at sending laboratory test orders  <br><a href="#">Read More</a>
 								</p>
 							</div>
 						</div>
@@ -144,9 +144,44 @@
 								<div class="thumb">
 									<img src="<?php echo base_url('site_assets/'); ?>img/s3.jpg" alt="">									
 								</div>
-								<h4>Industrial Engineering</h4>
+								<h4>Clinical Record Management, </h4>
 								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct women face higher conduct.
+									Clinical Record Management, defines the storage recommendations which will ensure that records are maintained, managed and controlled effectively <br><a href="#">Read More</a>
+								</p>
+							</div>
+						</div>												
+					</div>
+					<div class="row">
+						<div class="col-lg-4">
+							<div class="single-service">
+								<div class="thumb">
+									<img src="<?php echo base_url('site_assets/'); ?>img/rx.jpg" alt="Pharmacy Management and Information System - PMIS">									
+								</div>
+								<h4>Pharmacy Management and Information System - PMIS</h4>
+								<p>
+									A system which tracks the medicine records to all the patients, In-Patients and Out-Patients recording the actual sales, profit, loss, <br><a href="#">Read More</a>
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-service">
+								<div class="thumb">
+									<img src="<?php echo base_url('site_assets/'); ?>img/cmis-detail.jpg" alt="">									
+								</div>
+								<h4>College Management Information System - CMIS,</h4>
+								<p>
+									MiDas CMIS, is a complete system that manages the data of college students and their financial and academic activities <br><a href="#">Read More</a>
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-service">
+								<div class="thumb">
+									<img src="<?php echo base_url('site_assets/'); ?>img/library-detail.jpg" alt="">									
+								</div>
+								<h4>Library Management System - LMS </h4>
+								<p>
+									LMS, is an enterprise resource planning system for a library, used to track items owned, orders made, bills paid, and patrons who have borrowed.<br><br><a href="#">Read More</a>
 								</p>
 							</div>
 						</div>												
