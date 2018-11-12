@@ -27,7 +27,7 @@
 								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-magic-wand"></span></span></a>
 								<h4 class="mb-20" style="margin-top: 23px;">Business Solution</h4>
 								<p class="text-justify">
-									In today's business environment the only constant is the change. Business managers in order to manage the change need access to factual information in real-time. <a href="#">Read More...</a>
+									In today's business environment the only constant is the change. Business managers in order to manage the change need access to factual information in real-time. MiDas Technologies Pvt. Ltd., a member of MiDas Group helps business managers to take more effective decisions by converting multiple sources of data into useful... <a href="#">Read More...</a>
 								</p>
 							</div>															
 						</div>
@@ -36,7 +36,7 @@
 								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-rocket"></span></span></a>
 								<h4 class="mt-40 mb-20">Software Development</h4>
 								<p class="text-justify">
-									In today's business environment the only constant is the change. Business managers in order to manage the change need access to factual information in real-time. <a href="#">Read More...</a>
+									Software development requires not only the right coding skills, but also people with the correct business sense.You need developers who understand your business and it's need for change, developers that can move with your requirements to ensure that the products developed integrate and grow with you. MiDas use permanent staff who are. <a href="#">Read More...</a>
 								</p>
 							</div>															
 						</div>
@@ -45,7 +45,7 @@
 								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-bug"></span></span></a>
 								<h4 class="mt-40 mb-20">Client Support</h4>
 								<p class="text-justify">
-									In today's business environment the only constant is the change. Business managers in order to manage the change need access to factual information in real-time. <a href="#">Read More...</a>
+									Purchasing or developing a software is just one part of the solution. Realizing the full benefit of any solution requires installing the software, converting legacy data, training your team and integrating with other critical applications.MiDas Technical Service Group is here to assist you through any part of the process and provides technical support... <a href="#">Read More...</a>
 								</p>
 							</div>							
 						</div>
@@ -60,7 +60,7 @@
 				<div class="container">
 					<div class="row justify-content-center align-items-center">
 						<div class="col-lg-8 col-md-12 home-about-left">
-							<h6>Trust the MiDas Touch!</h6>
+							<h6 class="text-warning">Trust the MiDas Touch!</h6>
 							<h1>
 								Why Choose <br>
 								MiDas Technology?
@@ -82,10 +82,14 @@
 								<div class="form-select" id="service-select"">
 									<select>
 										<option value="1">Select Service</option>
-										<option value="2">Service One</option>
-										<option value="3">Service Two</option>
-										<option value="4">Service Three</option>
-										<option value="5">Service Four</option>
+										<option value="2">Hospital Management Information System</option>
+										<option value="3">Laboratory Managmenet Information System</option>
+										<option value="4">Clinical Record Management</option>
+										<option value="5">Pharmacy Management Information System</option>
+										<option value="6">School Management Information System</option>
+										<option value="7">College Management Information System</option>
+										<option value="8">School Communication Information System</option>
+										<option value="9">Library Management System</option>
 									</select>
 								</div>								
 								<input type="text" class="form-control" placeholder="name">
@@ -106,9 +110,9 @@
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-md-12 pb-30 header-text text-center">
-							<h1 class="mb-10">Our Capturing Market Sectors</h1>
+							<h1 class="mb-10">Our Products</h1>
 							<p>
-								Who are in extremely love with eco friendly system..
+								These are some of our products that are implemented in market.
 							</p>
 						</div>
 					</div>						
@@ -153,7 +157,7 @@
 			
 
 			<!-- Start faq Area -->
-			<section class="faq-area section-gap relative">
+			<!-- <section class="faq-area section-gap relative">
 				<div class="overlay overlay-bg"></div>
 				<div class="container">
 					<div class="row justify-content-center align-items-center">
@@ -203,12 +207,12 @@
 						</div>																		
 					</div>
 				</div>	
-			</section>
+			</section> -->
 			<!-- End faq Area -->
 
 
 			<!-- Start project Area -->
-			<section class="project-area section-gap" id="project">
+			<!-- <section class="project-area section-gap" id="project">
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-md-8 pb-30 header-text text-center">
@@ -220,28 +224,28 @@
 					</div>						
 					<div class="row">
 						<div class="col-lg-8 col-md-8">
-							<a href="img/p1.jpg" class="img-gal">
+							<a href="<?php echo base_url('site_assets/'); ?>img/p1.jpg" class="img-gal">
 								<img class="img-fluid single-project" src="<?php echo base_url('site_assets/'); ?>img/p1.jpg" alt="">
 							</a>	
 						</div>
 						<div class="col-lg-4 col-md-4">
-							<a href="img/p2.jpg" class="img-gal">
+							<a href="<?php echo base_url('site_assets/'); ?>img/p2.jpg" class="img-gal">
 								<img class="img-fluid single-project" src="<?php echo base_url('site_assets/'); ?>img/p2.jpg" alt="">
 							</a>	
 						</div>						
 						<div class="col-lg-6 col-md-6">
-							<a href="img/p3.jpg" class="img-gal">
+							<a href="<?php echo base_url('site_assets/'); ?>img/p3.jpg" class="img-gal">
 								<img class="img-fluid single-project" src="<?php echo base_url('site_assets/'); ?>img/p3.jpg" alt="">
 							</a>	
 						</div>
 						<div class="col-lg-6 col-md-6">
-							<a href="img/p4.jpg" class="img-gal">
+							<a href="<?php echo base_url('site_assets/'); ?>img/p4.jpg" class="img-gal">
 								<img class="img-fluid single-project" src="<?php echo base_url('site_assets/'); ?>img/p4.jpg" alt="">
 							</a>	
 						</div>		
 					</div>
 				</div>	
-			</section>
+			</section> -->
 			<!-- End project Area -->
 						
 			<!-- Start feedback Area -->
@@ -321,7 +325,7 @@
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-md-12 pb-30 header-text">
-							<h1>Latest posts from our Blog</h1>
+							<h1>Latest News And Events</h1>
 							<p>
 								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> labore  et dolore magna aliqua.
 							</p>

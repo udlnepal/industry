@@ -19,15 +19,17 @@
 			<section class="contact-page-area section-gap">
 				<div class="container">
 					<div class="row">
-						<div class="map-wrap" style="width:100%; height: 445px;" id="map"></div>
+						<div class="map-wrap" style="width:100%; height: 450px; overflow: auto;" id="map">
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.9757221236428!2d85.30703041453786!3d27.68714523298748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb184bf72f5f17%3A0x83e8443a9fc78450!2sMidas+Technologies+Pvt.+Ltd.!5e0!3m2!1sen!2snp!4v1541997897796" width="1140" height="455" frameborder="0" style="border:0" allowfullscreen></iframe>
+						</div>
 						<div class="col-lg-4 d-flex flex-column address-wrap">
 							<div class="single-contact-address d-flex flex-row">
 								<div class="icon">
 									<span class="lnr lnr-home"></span>
 								</div>
 								<div class="contact-details">
-									<h5>Dhaka, Bangladesh</h5>
-									<p>56/8, West Panthapath</p>
+									<h5>Bangdel Marg, Sanepa</h5>
+									<p>Lalitpur, Nepal</p>
 								</div>
 							</div>
 							<div class="single-contact-address d-flex flex-row">
@@ -35,8 +37,8 @@
 									<span class="lnr lnr-phone-handset"></span>
 								</div>
 								<div class="contact-details">
-									<h5>00 (880) 9865 562</h5>
-									<p>Mon to Fri 9am to 6 pm</p>
+									<h5>+977-01-5526279</h5>
+									<p>Sun to Fri 9:30am to 5:30 pm</p>
 								</div>
 							</div>
 							<div class="single-contact-address d-flex flex-row">
@@ -44,7 +46,7 @@
 									<span class="lnr lnr-envelope"></span>
 								</div>
 								<div class="contact-details">
-									<h5><a href="https://colorlib.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="16656366667964625675797273627e737b73653875797b">[email&#160;protected]</a></h5>
+									<h5><a href="" class="__cf_email__" >info@midas.com.np</a></h5>
 									<p>Send us your query anytime!</p>
 								</div>
 							</div>														
