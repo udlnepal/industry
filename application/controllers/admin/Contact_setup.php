@@ -10,6 +10,7 @@ class Contact_setup extends Admin_controller{
 
 
 public function index(){
+	
 	$data['titlename']=$this->user_model->get_logged_user();
 	$this->display('admin/contact_setup',$data);
 }
