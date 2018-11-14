@@ -48,8 +48,8 @@
 				  				</ul>
 				  			</div>
 				  			<div class="col-lg-6 col-sm-6 col-8 header-top-right no-padding">
-				  				<a href="<?php echo base_url('site_assets/'); ?>tel:+880 012 3654 896">+880 012 3654 896</a>
-				  				<a href="<?php echo base_url('site_assets/'); ?>https://colorlib.com/cdn-cgi/l/email-protection#21525451514e535561424e4d4e534d48430f424e4c"><span class="__cf_email__" data-cfemail="f784828787988583b794989b98859b9e95d994989a">[email&#160;protected]</span></a>				
+				  				<a href="<?php echo base_url('site_assets/'); ?>tel:+880 012 3654 896">+977-01-5526279</a>
+				  				<a href=""><span class="">info@midas.com.np</span></a>				
 				  			</div>
 				  		</div>			  					
 		  			</div>

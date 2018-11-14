@@ -3538,3 +3538,12 @@ body.mobile-nav-active #mobile-nav-toggle {
                End Blog Details  Page style
 ################
 */
+.no-radius.primary-btn{
+  border-radius: 0 !important;
+}
+
+.no-radius.primary-btn:hover{
+background: none;
+color: #FD9D17;
+border:1px solid #FD9D17;
+}

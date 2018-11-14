@@ -27,7 +27,8 @@
 								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-magic-wand"></span></span></a>
 								<h4 class="mb-20" style="margin-top: 23px;">Business Solution</h4>
 								<p class="text-justify">
-									In today's business environment the only constant is the change. Business managers in order to manage the change need access to factual information in real-time. MiDas Technologies Pvt. Ltd., a member of MiDas Group helps business managers to take more effective decisions by converting multiple sources of data into useful... <a href="#">Read More...</a>
+									In today's business environment the only constant is the change. Business managers in order to manage the change need access to factual information in real-time. MiDas Technologies Pvt. Ltd., a member of MiDas Group helps business managers to take more effective decisions by converting multiple sources of data into useful...<br>
+									<div class="col-lg-12 text-center"><a class="primary-btn no-radius" href="#">Read More...</a></div>
 								</p>
 							</div>															
 						</div>
@@ -36,7 +37,8 @@
 								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-rocket"></span></span></a>
 								<h4 class="mt-40 mb-20">Software Development</h4>
 								<p class="text-justify">
-									Software development requires not only the right coding skills, but also people with the correct business sense.You need developers who understand your business and it's need for change, developers that can move with your requirements to ensure that the products developed integrate and grow with you. MiDas use permanent staff who are. <a href="#">Read More...</a>
+									Software development requires not only the right coding skills, but also people with the correct business sense.You need developers who understand your business and it's need for change, developers that can move with your requirements to ensure that the products developed integrate and grow with you. MiDas use permanent staff who are.<br>
+									<div class="col-lg-12 text-center"><a class="primary-btn no-radius" href="#">Read More...</a></div>
 								</p>
 							</div>															
 						</div>
@@ -45,7 +47,8 @@
 								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-bug"></span></span></a>
 								<h4 class="mt-40 mb-20">Client Support</h4>
 								<p class="text-justify">
-									Purchasing or developing a software is just one part of the solution. Realizing the full benefit of any solution requires installing the software, converting legacy data, training your team and integrating with other critical applications.MiDas Technical Service Group is here to assist you through any part of the process and provides technical support... <a href="#">Read More...</a>
+									Purchasing or developing a software is just one part of the solution. Realizing the full benefit of any solution requires installing the software, converting legacy data, training your team and integrating with other critical applications.MiDas Technical Service Group is here to assist you through any part of the process and provides technical support...<br> 
+									<div class="col-lg-12 text-center"><a class="primary-btn no-radius" href="#">Read More...</a></div>
 								</p>
 							</div>							
 						</div>
@@ -76,8 +79,8 @@
 							</p>
 							<a class="primary-btn" href="#">Get Started Now</a>
 						</div>
-						<div class="col-lg-4 col-md-12 home-about-right relative">
-							<form class="form-wrap" action="#">
+						<div class="col-lg-4 col-md-12 home-about-right relative" style="padding: 0">
+						<!-- 	<form class="form-wrap" action="#">
 								<h4 class="text-white pb-20">Request a Quote</h4>
 								<div class="form-select" id="service-select"">
 									<select>
@@ -97,13 +100,91 @@
 								<input type="email" class="form-control" placeholder="Email Address">
 								<textarea name="message" id="" cols="30" rows="5" placeholder="Message" class="form-control"></textarea>
 								<button class="primary-btn">Request Free Quote</button>
-							</form>
+							</form> -->
+							<img src="<?php echo base_url('site_assets/img/side_img.jpg'); ?>">
 						</div>
 					</div>
 				</div>	
 			</section>
 			<!-- End home-about Area -->
 					
+
+				
+			<!-- Start feedback Area -->
+			<section class="feedback-area section-gap relative" id="feedback">
+				<div class="overlay overlay-bg"></div>
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-md-12 pb-30 header-text text-center">
+							<h1 class="mb-10 text-white">Enjoy our Client’s Feedback</h1>
+							<p class="text-white">
+								Who are in extremely love with eco friendly system..
+							</p>
+						</div>
+					</div>			
+					<div class="row feedback-contents justify-content-center align-items-center">
+						<div class="col-lg-6 feedback-left relative d-flex justify-content-center align-items-center" style="background:none;">
+							<!-- <div class="overlay overlay-bg"></div> -->
+							<a class="play-btn" ><img class="img-fluid" src="<?php echo base_url('site_assets/'); ?>img/feedback.jpg" alt=""></a>
+							<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/w1hpZ0rnsv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+						</div>
+						<div class="col-lg-6 feedback-right">
+							<div class="active-review-carusel">
+								<div class="single-feedback-carusel">
+									<div class="title d-flex flex-row">
+										<h4 class="text-white pb-10">Fannie Rowe</h4>
+										<div class="star">
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>								
+										</div>										
+									</div>
+									<p class="text-white">
+										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									</p>
+								</div>
+								<div class="single-feedback-carusel">
+									<div class="title d-flex flex-row">
+										<h4 class="text-white pb-10">Fannie Rowe</h4>
+										<div class="star">
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star"></span>								
+										</div>										
+									</div>
+									<p class="text-white">
+										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									</p>
+								</div>
+								<div class="single-feedback-carusel">
+									<div class="title d-flex flex-row">
+										<h4 class="text-white pb-10">Fannie Rowe</h4>
+										<div class="star">
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star checked	"></span>								
+										</div>										
+									</div>
+									<p class="text-white">
+										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									</p>
+								</div>																
+							</div>
+						</div>
+					</div>
+				</div>	
+			</section>
+			<!-- End feedback Area -->
+			
+	
+
+
 
 			<!-- Start service Area -->
 			<section class="service-area section-gap" id="service">
@@ -282,81 +363,9 @@
 				</div>	
 			</section> -->
 			<!-- End project Area -->
-						
-			<!-- Start feedback Area -->
-			<section class="feedback-area section-gap relative" id="feedback">
-				<div class="overlay overlay-bg"></div>
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-md-12 pb-30 header-text text-center">
-							<h1 class="mb-10 text-white">Enjoy our Client’s Feedback</h1>
-							<p class="text-white">
-								Who are in extremely love with eco friendly system..
-							</p>
-						</div>
-					</div>			
-					<div class="row feedback-contents justify-content-center align-items-center">
-						<div class="col-lg-6 feedback-left relative d-flex justify-content-center align-items-center">
-							<div class="overlay overlay-bg"></div>
-							<a class="play-btn" href="https://www.youtube.com/watch?v=ARA0AxrnHdM"><img class="img-fluid" src="<?php echo base_url('site_assets/'); ?>img/play-btn.png" alt=""></a>
-						</div>
-						<div class="col-lg-6 feedback-right">
-							<div class="active-review-carusel">
-								<div class="single-feedback-carusel">
-									<div class="title d-flex flex-row">
-										<h4 class="text-white pb-10">Fannie Rowe</h4>
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>								
-										</div>										
-									</div>
-									<p class="text-white">
-										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
-									</p>
-								</div>
-								<div class="single-feedback-carusel">
-									<div class="title d-flex flex-row">
-										<h4 class="text-white pb-10">Fannie Rowe</h4>
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star"></span>								
-										</div>										
-									</div>
-									<p class="text-white">
-										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
-									</p>
-								</div>
-								<div class="single-feedback-carusel">
-									<div class="title d-flex flex-row">
-										<h4 class="text-white pb-10">Fannie Rowe</h4>
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked	"></span>								
-										</div>										
-									</div>
-									<p class="text-white">
-										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
-									</p>
-								</div>																
-							</div>
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End feedback Area -->
-			
-	
+		
 			<!-- Start blog Area -->
-			<section class="blog-area section-gap" id="blog">
+		<!-- 	<section class="blog-area section-gap" id="blog">
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-md-12 pb-30 header-text">
@@ -437,5 +446,5 @@
 												
 					</div>
 				</div>	
-			</section>
+			</section> -->
 			<!-- end blog Area -->	

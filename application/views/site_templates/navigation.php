@@ -7,16 +7,16 @@
 				        <ul class="nav-menu">
 				          <li class="menu-active"><a href="<?php echo base_url(); ?>">Home</a></li>
 				          <li><a href="<?php echo base_url('site/about'); ?>">About</a></li>
-				          <li><a href="<?php echo base_url('site/about'); ?>">Service</a></li>
-				          <li><a href="<?php echo base_url('site/about'); ?>">Projects</a></li>
-				          <li class="menu-has-children"><a href="#">Blog</a>
+				          <li><a href="<?php echo base_url('site/about'); ?>">Clients</a></li>
+				          <li><a href="<?php echo base_url('site/about'); ?>">Products</a></li>
+				       <!--    <li class="menu-has-children"><a href="#">Blog</a>
 				            <ul>
 				              <li><a href="<?php echo base_url('site/about'); ?>">Blog Home</a></li>
 				              <li><a href="<?php echo base_url('site/about'); ?>">Blog Single</a></li>
 				            </ul>
-				          </li>						          
+				          </li>	 -->					          
 				          <li><a href="<?php echo base_url('site/contact'); ?>">Contact</a></li>
-			              <li><a href="<?php echo base_url('site/about'); ?>">Elements</a></li>
+			              <!-- <li><a href="<?php echo base_url('site/about'); ?>">Elements</a></li> -->
 				        </ul>
 				      </nav><!-- #nav-menu-container -->		    		
 			    	</div>
