@@ -43,5 +43,13 @@ class Site extends CI_Controller {
 		$data['title']="contact";
 		$this->display('site/contact',$data);
 	}
+	public function clients(){
+		$data['title']="clients";
+		$this->display('site/clients',$data);
+	}
+	public function products(){
+		$data['title']="products";
+		$this->display('site/products',$data);
+	}
 }
 

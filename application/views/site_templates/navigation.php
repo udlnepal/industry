@@ -7,8 +7,8 @@
 				        <ul class="nav-menu">
 				          <li class="menu-active"><a href="<?php echo base_url(); ?>">Home</a></li>
 				          <li><a href="<?php echo base_url('site/about'); ?>">About</a></li>
-				          <li><a href="<?php echo base_url('site/about'); ?>">Clients</a></li>
-				          <li><a href="<?php echo base_url('site/about'); ?>">Products</a></li>
+				          <li><a href="<?php echo base_url('site/clients'); ?>">Clients</a></li>
+				          <li><a href="<?php echo base_url('site/products'); ?>">Products</a></li>
 				       <!--    <li class="menu-has-children"><a href="#">Blog</a>
 				            <ul>
 				              <li><a href="<?php echo base_url('site/about'); ?>">Blog Home</a></li>

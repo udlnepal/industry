@@ -11,7 +11,7 @@
 							<p class="text-white">
 								A Nepal based professionally managed company offering IT solutions to local as well as overseas clients especially on Education, Health and Agriculture sector.
 							</p>
-							<a href="aboutus.html" class="primary-btn header-btn text-uppercase">Get Started</a>
+							<a href="<?php echo base_url('site/about') ?>" class="primary-btn header-btn text-uppercase">Get Started</a>
 						</div>												
 					</div>
 				</div>
@@ -205,7 +205,7 @@
 								</div>
 								<h4>Hospital Management and Information System - HMIS</h4>
 								<p>
-									Collection, compilation, analysis and interpretation of data for effective use as information which helps in better planning, <br><a href="#">Read More</a>
+									Collection, compilation, analysis and interpretation of data for effective use as information which helps in better planning, <br><a href="<?php echo base_url('site/products'); ?>">Read More</a>
 								</p>
 							</div>
 						</div>
@@ -216,7 +216,7 @@
 								</div>
 								<h4>Laboratory Information System - LIS</h4>
 								<p>
-									A software system that records, manages, and stores data for hospital laboratories. A LIS has been most adept at sending laboratory test orders  <br><a href="#">Read More</a>
+									A software system that records, manages, and stores data for hospital laboratories. A LIS has been most adept at sending laboratory test orders  <br><a href="<?php echo base_url('site/products'); ?>">Read More</a>
 								</p>
 							</div>
 						</div>
@@ -227,7 +227,7 @@
 								</div>
 								<h4>Clinical Record Management, </h4>
 								<p>
-									Clinical Record Management, defines the storage recommendations which will ensure that records are maintained, managed and controlled effectively <br><a href="#">Read More</a>
+									Clinical Record Management, defines the storage recommendations which will ensure that records are maintained, managed and controlled effectively <br><a href="<?php echo base_url('site/products'); ?>">Read More</a>
 								</p>
 							</div>
 						</div>												
@@ -240,7 +240,7 @@
 								</div>
 								<h4>Pharmacy Management and Information System - PMIS</h4>
 								<p>
-									A system which tracks the medicine records to all the patients, In-Patients and Out-Patients recording the actual sales, profit, loss, <br><a href="#">Read More</a>
+									A system which tracks the medicine records to all the patients, In-Patients and Out-Patients recording the actual sales, profit, loss, <br><a href="<?php echo base_url('site/products'); ?>">Read More</a>
 								</p>
 							</div>
 						</div>
@@ -251,7 +251,7 @@
 								</div>
 								<h4>College Management Information System - CMIS,</h4>
 								<p>
-									MiDas CMIS, is a complete system that manages the data of college students and their financial and academic activities <br><a href="#">Read More</a>
+									MiDas CMIS, is a complete system that manages the data of college students and their financial and academic activities <br><a href="<?php echo base_url('site/products'); ?>">Read More</a>
 								</p>
 							</div>
 						</div>
@@ -262,7 +262,7 @@
 								</div>
 								<h4>Library Management System - LMS </h4>
 								<p>
-									LMS, is an enterprise resource planning system for a library, used to track items owned, orders made, bills paid, and patrons who have borrowed.<br><br><a href="#">Read More</a>
+									LMS, is an enterprise resource planning system for a library, used to track items owned, orders made, bills paid, and patrons who have borrowed.<br><br><a href="<?php echo base_url('site/products'); ?>">Read More</a>
 								</p>
 							</div>
 						</div>												

@@ -39,8 +39,8 @@ Copyright &copy; All rights reserved &nbsp;<a href="https://midastechnoliges.com
 								<div class="footer-social d-flex align-items-center">
 									<a href="#"><i class="fa fa-facebook"></i></a>
 									<a href="#"><i class="fa fa-twitter"></i></a>
-									<a href="#"><i class="fa fa-dribbble"></i></a>
-									<a href="#"><i class="fa fa-behance"></i></a>
+									<!-- <a href="#"><i class="fa fa-dribbble"></i></a>
+									<a href="#"><i class="fa fa-behance"></i></a> -->
 								</div>
 							</div>
 						</div>							

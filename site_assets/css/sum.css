@@ -8,3 +8,11 @@ ul.why_list li{
 	 background-color: #FD9D17;
 
 }
+.about-content {
+    margin-top: 20px !important;
+    padding: 120px 0 0 0 !important;
+    text-align: center !important;
+}
+.single-service:hover {
+    cursor: auto !important;
+}

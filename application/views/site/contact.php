@@ -8,7 +8,7 @@
 							<h1 class="text-white">
 								Contact Us				
 							</h1>	
-							<p class="text-white link-nav"><a href="index-2.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="contact.html"> Contact Us</a></p>
+							<p class="text-white link-nav"><a href="<?php echo base_url(); ?>">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="<?php echo base_url('site/contact'); ?>"> Contact Us</a></p>
 						</div>	
 					</div>
 				</div>
@@ -19,7 +19,7 @@
 			<section class="contact-page-area section-gap">
 				<div class="container">
 					<div class="row">
-						<div class="map-wrap" style="width:100%; height: 450px; overflow: auto;" id="map">
+						<div class="map-wrap" style="width:100%; height: 450px; overflow: hidden;" id="map">
 							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.9757221236428!2d85.30703041453786!3d27.68714523298748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb184bf72f5f17%3A0x83e8443a9fc78450!2sMidas+Technologies+Pvt.+Ltd.!5e0!3m2!1sen!2snp!4v1541997897796" width="1140" height="455" frameborder="0" style="border:0" allowfullscreen></iframe>
 						</div>
 						<div class="col-lg-4 d-flex flex-column address-wrap">

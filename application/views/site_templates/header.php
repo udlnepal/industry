@@ -43,8 +43,8 @@
 				  				<ul>
 									<li><a href="<?php echo base_url('site_assets/'); ?>#"><i class="fa fa-facebook"></i></a></li>
 									<li><a href="<?php echo base_url('site_assets/'); ?>#"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="<?php echo base_url('site_assets/'); ?>#"><i class="fa fa-dribbble"></i></a></li>
-									<li><a href="<?php echo base_url('site_assets/'); ?>#"><i class="fa fa-behance"></i></a></li>
+									<!-- <li><a href="<?php echo base_url('site_assets/'); ?>#"><i class="fa fa-dribbble"></i></a></li>
+									<li><a href="<?php echo base_url('site_assets/'); ?>#"><i class="fa fa-behance"></i></a></li> -->
 				  				</ul>
 				  			</div>
 				  			<div class="col-lg-6 col-sm-6 col-8 header-top-right no-padding">

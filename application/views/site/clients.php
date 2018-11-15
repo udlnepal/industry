@@ -5,9 +5,9 @@
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								About Us				
+								Clients				
 							</h1>	
-							<p class="text-white link-nav"><a href="<?php echo base_url(); ?>">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="<?php echo base_url('site/about'); ?>"> About Us</a></p>
+							<p class="text-white link-nav"><a href="<?php echo base_url(); ?>">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="<?php echo base_url('site/clients'); ?>"> Clients</a></p>
 						</div>	
 					</div>
 				</div>
@@ -19,13 +19,13 @@
 				<div class="container">
 					<div class="row justify-content-center align-items-center">
 						<div class="col-lg-8 col-md-12 home-about-left">
-							<h6>Brand new app to blow your mind</h6>
+							<!-- <h6>Brand new app to blow your mind</h6> -->
 							<h1>
-								MiDas Technologies
+								Our Clients
 							</h1>
 							<p class="sub">Trust the MiDas Touch!</p>
 							<p class="pb-20">
-								Welcome to MiDas Technologies (P.) Ltd. - A Nepal based professionally managed company offering IT solutions to local as well as overseas clients. We offer you a unique combination of experience, knowledge, methodology and professional commitment that makes us the right choice for your business. Our continue success is a reflection of our primary focus- value, quality and commitment to the best possible customer service. As we develop new modules and update exisiting ones, we always ensure that our current customers remain our top priority. We are proud that our very first customer is still an important member of the MiDas family.magna aliqua. Ut enim ad minim.
+								Headquartered in Kathmandu, Nepal, MiDas Technologies (P.) Ltd. offers IT solutions and services to those companies seeking to develop or install software applications to support their enterprise-wide or departmental business processes. Our services encompass Business Software Development, Educational Software Development, Web Development, Physician Billing and Practice Management Software Solutions, which are noted for their vastly superior efficiency resulting in optimum productivity by requiring the least number of keystrokes / mouse clicks.With our extensive experience, vast range of products and services, we are able to offer our customers high quality, time bound, cost effective and a single-point solution for their needs at any point in their product development cycle through facilities in Kathmandu and Biratnagar.Our suite of solutions are set to rclientslistise the way companies manage their business and communicate with their customers and employees.
 							</p>
 							<!-- <a class="primary-btn" href="#">Get Started Now</a> -->
 						</div>
