@@ -55,7 +55,70 @@
 				
 
 			<!-- End cat Area -->						
-
+<section class="service-area " id="service">
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-md-12 pb-30 header-text text-center">
+							<h1 class="mb-10">Our Clients</h1>
+							<p>
+								These are some of our Clients.
+							</p>
+						</div>
+					</div>						
+					<div class="row">
+						<div class="col-lg-4">
+							<div class="single-service">
+								<div class="thumb">
+									<img src="http://[::1]/industry/site_assets/img/client1.jpg" alt="">									
+								</div>
+							
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-service">
+								<div class="thumb">
+									<img src="http://[::1]/industry/site_assets/img/client2.jpg" alt="">									
+								</div>
+								
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-service">
+								<div class="thumb">
+									<img src="http://[::1]/industry/site_assets/img/client3.jpg" alt="">									
+								</div>
+							
+							</div>
+						</div>												
+					</div>
+					<div class="row">
+						<div class="col-lg-4">
+							<div class="single-service">
+								<div class="thumb">
+									<img src="http://[::1]/industry/site_assets/img/client4.jpg" alt="Pharmacy Management and Information System - PMIS">									
+								</div>
+								
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-service">
+								<div class="thumb">
+									<img src="http://[::1]/industry/site_assets/img/client5.jpg" alt="">									
+								</div>
+								
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-service">
+								<div class="thumb">
+									<img src="http://[::1]/industry/site_assets/img/client6.jpg" alt="">									
+								</div>
+							
+							</div>
+						</div>												
+					</div>
+				</div>	
+			</section>
 			
 
 			<!-- Start faq Area -->

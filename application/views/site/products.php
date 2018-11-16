@@ -32,7 +32,7 @@
 								</div>
 								<h4>Hospital Management and Information System - HMIS</h4>
 								<p>
-									Collection, compilation, analysis and interpretation of data for effective use as information which helps in better planning, <br><a href="#" data-target="#hmis" data-toggle="modal">Read More</a>
+									Collection, compilation, analysis and interpretation of data for effective use as information which helps in better planning, <br><a href="#" data-target="#hmis" class="primary-btn no-radius" data-toggle="modal">Read More</a>
 								</p>
 							</div>
 						</div>
@@ -43,7 +43,7 @@
 								</div>
 								<h4>Laboratory Information System - LIS</h4>
 								<p>
-									A software system that records, manages, and stores data for hospital laboratories. A LIS has been most adept at sending laboratory test orders  <br><a href="#" data-target="#lis" data-toggle="modal">Read More</a>
+									A software system that records, manages, and stores data for hospital laboratories. A LIS has been most adept at sending laboratory test orders  <br><a href="#" data-target="#lis" class="primary-btn no-radius" data-toggle="modal">Read More</a>
 								</p>
 							</div>
 						</div>
@@ -54,7 +54,7 @@
 								</div>
 								<h4>Clinical Record Management, </h4>
 								<p>
-									Clinical Record Management, defines the storage recommendations which will ensure that records are maintained, managed and controlled effectively <br><a href="#" data-target="#crm" data-toggle="modal">Read More</a>
+									Clinical Record Management, defines the storage recommendations which will ensure that records are maintained, managed and controlled effectively <br><a href="#" data-target="#crm" class="primary-btn no-radius" data-toggle="modal">Read More</a>
 								</p>
 							</div>
 						</div>												
@@ -67,7 +67,7 @@
 								</div>
 								<h4>Pharmacy Management and Information System - PMIS</h4>
 								<p>
-									A system which tracks the medicine records to all the patients, In-Patients and Out-Patients recording the actual sales, profit, loss, <br><a href="#" data-target="#pmis" data-toggle="modal">Read More</a>
+									A system which tracks the medicine records to all the patients, In-Patients and Out-Patients recording the actual sales, profit, loss, <br><a href="#" data-target="#pmis" class="primary-btn no-radius" data-toggle="modal">Read More</a>
 								</p>
 							</div>
 						</div>
@@ -78,7 +78,7 @@
 								</div>
 								<h4>College Management Information System - CMIS,</h4>
 								<p>
-									MiDas CMIS, is a complete system that manages the data of college students and their financial and academic activities <br><a href="#" data-target="#cmis" data-toggle="modal">Read More</a>
+									MiDas CMIS, is a complete system that manages the data of college students and their financial and academic activities <br><a href="#" data-target="#cmis" class="primary-btn no-radius" data-toggle="modal">Read More</a>
 								</p>
 							</div>
 						</div>
@@ -89,7 +89,7 @@
 								</div>
 								<h4>Library Management System - LMS </h4>
 								<p>
-									LMS, is an enterprise resource planning system for a library, used to track items owned, orders made, bills paid, and patrons who have borrowed.<br><br><a href="#" data-target="#lms" data-toggle="modal">Read More</a>
+									LMS, is an enterprise resource planning system for a library, used to track items owned, orders made, bills paid, and patrons who have borrowed.<br><br><a href="#" data-target="#lms" class="primary-btn no-radius" data-toggle="modal">Read More</a>
 								</p>
 							</div>
 						</div>												
@@ -201,7 +201,7 @@ We provide MiDas Dr.HoMS for HMIS
 </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+       <a href="#" class="primary-btn no-radius">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
       <!--   <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div>
@@ -234,7 +234,7 @@ Modules We Are Providing
 </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+       <a href="#" class="primary-btn no-radius">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
       <!--   <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div>
@@ -272,7 +272,7 @@ This module handles following functions:
 </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+       <a href="#" class="primary-btn no-radius">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
       <!--   <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div>
@@ -310,7 +310,7 @@ This module handles following functions:
 </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+       <a href="#" class="primary-btn no-radius">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
       <!--   <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div>
@@ -349,7 +349,7 @@ This module handles following functions:
 </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+       <a href="#" class="primary-btn no-radius">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
       <!--   <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div>
@@ -421,7 +421,7 @@ This module handles following functions:
 </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+       <a href="#" class="primary-btn no-radius">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
       <!--   <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div>
@@ -482,7 +482,7 @@ margin-left: 10px !important;
 </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+       <a href="#" class="primary-btn no-radius">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
       <!--   <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div>
