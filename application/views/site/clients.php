@@ -122,7 +122,7 @@
 			
 
 			<!-- Start faq Area -->
-			<!-- <section class="faq-area section-gap relative">
+			<section class="faq-area section-gap relative">
 				<div class="overlay overlay-bg"></div>
 				<div class="container">
 					<div class="row justify-content-center align-items-center">
@@ -159,7 +159,7 @@
 								</p>
 							</div>
 						</div>
-						 <div class="col-lg-3 col-md-6">
+						<!-- <div class="col-lg-3 col-md-6">
 							<div class="single-faq">
 								<div class="circle">
 								  <div class="inner"></div>
@@ -169,10 +169,10 @@
 									Tickets Submited
 								</p>
 							</div>
-						</div> 																
+						</div> -->																		
 					</div>
 				</div>	
-			</section> -->
+			</section>
 			<!-- End faq Area -->
 						
 			<!-- Start feedback Area -->
