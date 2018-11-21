@@ -34,11 +34,12 @@
 								<h4 class="text-white pb-20">Request a Quote</h4>
 								<div class="form-select" id="service-select"">
 									<select>
-										<option value="1">Select Service</option>
-										<option value="2">Service One</option>
-										<option value="3">Service Two</option>
-										<option value="4">Service Three</option>
-										<option value="5">Service Four</option>
+										<option value="1">Hospital Management and Information System</option>
+										<option value="2">Laboratory Information System</option>
+										<option value="3">Clinical Record Management</option>
+										<option value="4">Pharmacy Management and Information System</option>
+										<option value="5">College Management Information System - CMIS</option>
+										<option value="6">Library Management System</option>
 									</select>
 								</div>								
 								<input type="text" class="form-control" placeholder="name">
