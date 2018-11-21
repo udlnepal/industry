@@ -28,7 +28,7 @@
 								<h4 class="mb-20" style="margin-top: 23px;">Business Solution</h4>
 								<p class="text-justify">
 									In today's business environment the only constant is the change. Business managers in order to manage the change need access to factual information in real-time. MiDas Technologies Pvt. Ltd., a member of MiDas Group helps business managers to take more effective decisions by converting multiple sources of data into useful...<br>
-									<div class="col-lg-12 text-center"><a class="primary-btn no-radius" href="#">Read More...</a></div>
+									<div class="col-lg-12 text-center"><a class="primary-btn no-radius" href="#" data-target="#business" data-toggle="modal">Read More...</a></div>
 								</p>
 							</div>															
 						</div>
@@ -38,7 +38,7 @@
 								<h4 class="mt-40 mb-20">Software Development</h4>
 								<p class="text-justify">
 									Software development requires not only the right coding skills, but also people with the correct business sense.You need developers who understand your business and it's need for change, developers that can move with your requirements to ensure that the products developed integrate and grow with you. MiDas use permanent staff who are.<br>
-									<div class="col-lg-12 text-center"><a class="primary-btn no-radius" href="#">Read More...</a></div>
+									<div class="col-lg-12 text-center"><a class="primary-btn no-radius" href="#" data-target="#software" data-toggle="modal">Read More...</a></div>
 								</p>
 							</div>															
 						</div>
@@ -48,7 +48,7 @@
 								<h4 class="mt-40 mb-20">Client Support</h4>
 								<p class="text-justify">
 									Purchasing or developing a software is just one part of the solution. Realizing the full benefit of any solution requires installing the software, converting legacy data, training your team and integrating with other critical applications.MiDas Technical Service Group is here to assist you through any part of the process and provides technical support...<br> 
-									<div class="col-lg-12 text-center"><a class="primary-btn no-radius" href="#">Read More...</a></div>
+									<div class="col-lg-12 text-center"><a class="primary-btn no-radius" href="#" data-target="#client" data-toggle="modal">Read More...</a></div>
 								</p>
 							</div>							
 						</div>
@@ -132,37 +132,37 @@
 							<div class="active-review-carusel">
 								<div class="single-feedback-carusel">
 									<div class="title d-flex flex-row">
-										<h4 class="text-white pb-10">Fannie Rowe</h4>
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>								
-										</div>										
-									</div>
-									<p class="text-white">
-										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
-									</p>
-								</div>
-								<div class="single-feedback-carusel">
-									<div class="title d-flex flex-row">
-										<h4 class="text-white pb-10">Fannie Rowe</h4>
+										<h4 class="text-white pb-10">Mahesh Sagar Khanal</h4>
 										<div class="star">
 											<span class="fa fa-star checked"></span>
 											<span class="fa fa-star checked"></span>
 											<span class="fa fa-star checked"></span>
 											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star"></span>								
+											<span class="fa fa-star checked"></span>								
 										</div>										
 									</div>
 									<p class="text-white">
-										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+										A good learning platform. It will fullfil your ques to learn in new and smart way. Learning through eclass, and having guidance from teacher is best way to learn for nuew generation students. Must try once.
 									</p>
 								</div>
 								<div class="single-feedback-carusel">
 									<div class="title d-flex flex-row">
-										<h4 class="text-white pb-10">Fannie Rowe</h4>
+										<h4 class="text-white pb-10">Seshraj Chaudhary</h4>
+										<div class="star">
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star checked"></span>
+											<span class="fa fa-star"></span>								
+										</div>										
+									</div>
+									<p class="text-white">
+										Best education software producer. Interactive software to study
+									</p>
+								</div>
+								<div class="single-feedback-carusel">
+									<div class="title d-flex flex-row">
+										<h4 class="text-white pb-10">Laxmi Gautam</h4>
 										<div class="star">
 											<span class="fa fa-star checked"></span>
 											<span class="fa fa-star checked"></span>
@@ -172,7 +172,7 @@
 										</div>										
 									</div>
 									<p class="text-white">
-										Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+										Best E-Learning Provider of Nepal
 									</p>
 								</div>																
 							</div>
@@ -269,182 +269,4 @@
 					</div>
 				</div>	
 			</section>
-			<!-- End service Area -->
-			
-
-			<!-- Start faq Area -->
-			<!-- <section class="faq-area section-gap relative">
-				<div class="overlay overlay-bg"></div>
-				<div class="container">
-					<div class="row justify-content-center align-items-center">
-						<div class="col-lg-3 col-md-6">
-							<div class="single-faq">
-								<div class="circle">
-								  <div class="inner"></div>
-								</div>
-								<h5><span class="counter">2</span>K+</h5>
-								<p>
-									Projects Completed
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6">
-							<div class="single-faq">
-								<div class="circle">
-								  <div class="inner"></div>
-								</div>
-								<h5><span class="counter">5.5</span>K</h5>
-								<p>
-									Total Employees
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6">
-							<div class="single-faq">
-								<div class="circle">
-								  <div class="inner"></div>
-								</div>
-								<h5 class="counter">959</h5>
-								<p>
-									Happy Clients
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6">
-							<div class="single-faq">
-								<div class="circle">
-								  <div class="inner"></div>
-								</div>
-								<h5 class="counter">367</h5>
-								<p>
-									Tickets Submited
-								</p>
-							</div>
-						</div>																		
-					</div>
-				</div>	
-			</section> -->
-			<!-- End faq Area -->
-
-
-			<!-- Start project Area -->
-			<!-- <section class="project-area section-gap" id="project">
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-md-8 pb-30 header-text text-center">
-							<h1 class="mb-10">Latest Finished Projects</h1>
-							<p>
-								Who are in extremely love with eco friendly system..
-							</p>
-						</div>
-					</div>						
-					<div class="row">
-						<div class="col-lg-8 col-md-8">
-							<a href="<?php echo base_url('site_assets/'); ?>img/p1.jpg" class="img-gal">
-								<img class="img-fluid single-project" src="<?php echo base_url('site_assets/'); ?>img/p1.jpg" alt="">
-							</a>	
-						</div>
-						<div class="col-lg-4 col-md-4">
-							<a href="<?php echo base_url('site_assets/'); ?>img/p2.jpg" class="img-gal">
-								<img class="img-fluid single-project" src="<?php echo base_url('site_assets/'); ?>img/p2.jpg" alt="">
-							</a>	
-						</div>						
-						<div class="col-lg-6 col-md-6">
-							<a href="<?php echo base_url('site_assets/'); ?>img/p3.jpg" class="img-gal">
-								<img class="img-fluid single-project" src="<?php echo base_url('site_assets/'); ?>img/p3.jpg" alt="">
-							</a>	
-						</div>
-						<div class="col-lg-6 col-md-6">
-							<a href="<?php echo base_url('site_assets/'); ?>img/p4.jpg" class="img-gal">
-								<img class="img-fluid single-project" src="<?php echo base_url('site_assets/'); ?>img/p4.jpg" alt="">
-							</a>	
-						</div>		
-					</div>
-				</div>	
-			</section> -->
-			<!-- End project Area -->
 		
-			<!-- Start blog Area -->
-		<!-- 	<section class="blog-area section-gap" id="blog">
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-md-12 pb-30 header-text">
-							<h1>Latest News And Events</h1>
-							<p>
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> labore  et dolore magna aliqua.
-							</p>
-						</div>
-					</div>
-					<div class="row">	
-						<div class="single-blog col-lg-4 col-md-4">
-							<div class="thumb">
-								<img class="f-img img-fluid mx-auto" src="<?php echo base_url('site_assets/'); ?>img/b1.jpg" alt="">	
-							</div>
-							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
-								<div>
-									<img class="img-fluid" src="<?php echo base_url('site_assets/'); ?>img/user.png" alt="">
-									<a href="#"><span>Mark Wiens</span></a>
-								</div>
-								<div class="meta">
-									13th Dec
-									<span class="lnr lnr-heart"></span> 15
-									<span class="lnr lnr-bubble"></span> 04
-								</div>
-							</div>							
-							<a href="#">
-								<h4>Portable Fashion for young women</h4>
-							</a>
-							<p>
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exea.
-							</p>
-						</div>
-						<div class="single-blog col-lg-4 col-md-4">
-							<div class="thumb">
-								<img class="f-img img-fluid mx-auto" src="<?php echo base_url('site_assets/'); ?>img/b2.jpg" alt="">	
-							</div>
-							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
-								<div>
-									<img class="img-fluid" src="<?php echo base_url('site_assets/'); ?>img/user.png" alt="">
-									<a href="#"><span>Mark Wiens</span></a>
-								</div>
-								<div class="meta">
-									13th Dec
-									<span class="lnr lnr-heart"></span> 15
-									<span class="lnr lnr-bubble"></span> 04
-								</div>
-							</div>							
-							<a href="#">
-								<h4>Portable Fashion for young women</h4>
-							</a>
-							<p>
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exea.
-							</p>
-						</div>
-						<div class="single-blog col-lg-4 col-md-4">
-							<div class="thumb">
-								<img class="f-img img-fluid mx-auto" src="<?php echo base_url('site_assets/'); ?>img/b3.jpg" alt="">	
-							</div>
-							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
-								<div>
-									<img class="img-fluid" src="<?php echo base_url('site_assets/'); ?>img/user.png" alt="">
-									<a href="#"><span>Mark Wiens</span></a>
-								</div>
-								<div class="meta">
-									13th Dec
-									<span class="lnr lnr-heart"></span> 15
-									<span class="lnr lnr-bubble"></span> 04
-								</div>
-							</div>							
-							<a href="#">
-								<h4>Portable Fashion for young women</h4>
-							</a>
-							<p>
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exea.
-							</p>
-						</div>												
-											
-												
-					</div>
-				</div>	
-			</section> -->
-			<!-- end blog Area -->	

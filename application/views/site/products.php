@@ -201,7 +201,7 @@ We provide MiDas Dr.HoMS for HMIS
 </div>
       </div>
       <div class="modal-footer">
-       <a href="#" class="primary-btn no-radius">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
+       <a href="#" class="primary-btn no-radius" data-target="#quote" data-toggle="modal">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
       <!--   <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div>
@@ -234,7 +234,7 @@ Modules We Are Providing
 </div>
       </div>
       <div class="modal-footer">
-       <a href="#" class="primary-btn no-radius">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
+       <a href="#" class="primary-btn no-radius" data-target="#quote" data-toggle="modal">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
       <!--   <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div>
@@ -272,7 +272,7 @@ This module handles following functions:
 </div>
       </div>
       <div class="modal-footer">
-       <a href="#" class="primary-btn no-radius">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
+       <a href="#" class="primary-btn no-radius" data-target="#quote" data-toggle="modal">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
       <!--   <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div>
@@ -310,7 +310,7 @@ This module handles following functions:
 </div>
       </div>
       <div class="modal-footer">
-       <a href="#" class="primary-btn no-radius">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
+       <a href="#" class="primary-btn no-radius" data-target="#quote" data-toggle="modal">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
       <!--   <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div>
@@ -349,7 +349,7 @@ This module handles following functions:
 </div>
       </div>
       <div class="modal-footer">
-       <a href="#" class="primary-btn no-radius">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
+       <a href="#" class="primary-btn no-radius" data-target="#quote" data-toggle="modal">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
       <!--   <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div>
@@ -421,7 +421,7 @@ This module handles following functions:
 </div>
       </div>
       <div class="modal-footer">
-       <a href="#" class="primary-btn no-radius">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
+       <a href="#" class="primary-btn no-radius" data-target="#quote" data-toggle="modal">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
       <!--   <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div>
@@ -482,8 +482,55 @@ margin-left: 10px !important;
 </div>
       </div>
       <div class="modal-footer">
-       <a href="#" class="primary-btn no-radius">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
+       <a href="#" class="primary-btn no-radius" data-target="#quote" data-toggle="modal">Get Quote</a>&nbsp; <button type="button" class="btn no-radius btn-secondary" data-dismiss="modal">Close</button>
       <!--   <button type="button" class="btn btn-primary">Save changes</button> -->
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="modal fade" id="quote" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Get Quote</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+       <section class="home-about-area pad_fix aboutus-about" id="about">
+				<div class="container">
+					<div class="row justify-content-center align-items-center">
+						
+						<div class="col-lg-12 col-md-12 home-about-right relative">
+							<form class="form-wrap" action="#">
+								<h4 class="text-white pb-20">Request a Quote</h4>
+								<div class="form-select" id="service-select"">
+									<select>
+										<option value="1">Select Service</option>
+										<option value="2">Service One</option>
+										<option value="3">Service Two</option>
+										<option value="4">Service Three</option>
+										<option value="5">Service Four</option>
+									</select>
+								</div>								
+								<input type="text" class="form-control" placeholder="name">
+								<input type="phone" class="form-control" placeholder="Phone Number">
+								<input type="email" class="form-control" placeholder="Email Address">
+								<textarea name="message" id="" cols="30" rows="5" placeholder="Message" class="form-control"></textarea>
+								<button class="primary-btn">Request Free Quote</button>
+							</form>
+						</div>
+					</div>
+				</div>	
+			</section>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+       <!--  <button type="button" class="btn btn-primary">Save changes</button> -->
       </div>
     </div>
   </div>

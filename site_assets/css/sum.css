@@ -16,3 +16,17 @@ ul.why_list li{
 .single-service:hover {
     cursor: auto !important;
 }
+.pull-left{
+	float: left !important;
+}
+.pad_fix{
+	padding: 0;
+}
+.pad_lt_fix{
+	padding-left: 0;
+}
+
+/*ul.nav-menu li a:hover{
+	border-bottom: 1px solid #FD9D17;
+	
+}*/

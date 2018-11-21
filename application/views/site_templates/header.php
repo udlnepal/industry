@@ -7,13 +7,15 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="<?php echo base_url('site_assets/'); ?>img/fav.html">
+		<link rel="shortcut icon" href="<?php echo base_url('site_assets/'); ?>img/favicon.ico">
 		<!-- Author Meta -->
-		<meta name="author" content="codepixer">
+		<meta name="author" content="Developed by Sumit Maharjan">
 		<!-- Meta Description -->
-		<meta name="description" content="">
+		<meta name="description" content="MiDas Technologies Pvt. Ltd.">
 		<!-- Meta Keyword -->
-		<meta name="keywords" content="">
+		<meta name="keywords" content="Midas Technologies, Midas Education, Midas eClass, Software Development, Hospital Management System">
+
+
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
@@ -41,8 +43,8 @@
 				  		<div class="row">
 				  			<div class="col-lg-6 col-sm-6 col-4 header-top-left no-padding">
 				  				<ul>
-									<li><a href="<?php echo base_url('site_assets/'); ?>#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="<?php echo base_url('site_assets/'); ?>#"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="http://www.facebook.com/midastechnologies.com.np" target="_blank"><i class="fa fa-facebook"></i></a></li>
+									<!-- <li><a href="<?php echo base_url('site_assets/'); ?>#"><i class="fa fa-twitter"></i></a></li> -->
 									<!-- <li><a href="<?php echo base_url('site_assets/'); ?>#"><i class="fa fa-dribbble"></i></a></li>
 									<li><a href="<?php echo base_url('site_assets/'); ?>#"><i class="fa fa-behance"></i></a></li> -->
 				  				</ul>

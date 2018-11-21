@@ -70,6 +70,52 @@
 							</form>	
 						</div>
 					</div>
+
+					<div class="row">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 pad_fix">
+    <div class="col-lg-6 pull-left col-md-6 col-sm-12 col-xs-12 pad_lt_fix">
+    <p class="contact-detail">
+    <strong> <u>For Sales/General Enquiry</u></strong><br>
+    bibek@midastechnologies.com.np<br>
+    977-9851179194
+    </p>
+    </div>
+    <div class="col-lg-6 pull-left col-md-6 col-sm-12 col-xs-12 pad_lt_fix">
+    <p class="contact-detail">
+    <strong> <u>For Web Enquiry</u></strong><br>
+    diwas@midastechnologies.com.np<br>
+    977-9851233986
+    </p>
+    </div>
+</div>
+<div class="col-lg-12 pull-left col-md-12 col-sm-12 col-xs-12 pad_fix">
+<p class="contact-detail">
+            <strong> <u>For HMIS &amp; LIS</u></strong><br>
+            amrit@midastechnologies.com.np<br>
+            977-9851179196
+           <br>
+            rajkumar@midastechnologies.com.np<br>
+            977-9841716545
+            </p>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 pad_fix">
+        <div class="col-lg-6 pull-left col-md-6 col-sm-12 col-xs-12 pad_lt_fix">
+           <p class="contact-detail">
+            <strong> <u>For SMIS &amp; SCIS</u></strong><br>
+            abeesake1@gmail.com<br>
+            977-9801052066
+            </p>
+        </div>
+      <div class="col-lg-6 pull-left col-md-6 col-sm-12 col-xs-12 pad_lt_fix">       
+            <p class="contact-detail">
+<strong> <u>For Pharmacy, Account &amp; PIS</u></strong><br>
+bibek@midastechnologies.com.np<br>
+977-9851179194
+</p>
+       </div>
+</div>
+
+					</div>
 				</div>	
 			</section>
 			<!-- End contact-page Area -->
