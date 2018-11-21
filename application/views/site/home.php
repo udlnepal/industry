@@ -24,7 +24,7 @@
 					<div class="row">
 						<div class="col-lg-4">	
 							<div class="single-cat d-flex flex-column">
-								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-magic-wand"></span></span></a>
+								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-briefcase"></span></span></a>
 								<h4 class="mb-20" style="margin-top: 23px;">Business Solution</h4>
 								<p class="text-justify">
 									In today's business environment the only constant is the change. Business managers in order to manage the change need access to factual information in real-time. MiDas Technologies Pvt. Ltd., a member of MiDas Group helps business managers to take more effective decisions by converting multiple sources of data into useful...<br>
@@ -34,7 +34,7 @@
 						</div>
 						<div class="col-lg-4">	
 							<div class="single-cat">
-								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-rocket"></span></span></a>
+								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-cog"></span></span></a>
 								<h4 class="mt-40 mb-20">Software Development</h4>
 								<p class="text-justify">
 									Software development requires not only the right coding skills, but also people with the correct business sense.You need developers who understand your business and it's need for change, developers that can move with your requirements to ensure that the products developed integrate and grow with you. MiDas use permanent staff who are.<br>
@@ -44,7 +44,7 @@
 						</div>
 						<div class="col-lg-4">
 							<div class="single-cat">
-								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-bug"></span></span></a>
+								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-bubble"></span></span></a>
 								<h4 class="mt-40 mb-20">Client Support</h4>
 								<p class="text-justify">
 									Purchasing or developing a software is just one part of the solution. Realizing the full benefit of any solution requires installing the software, converting legacy data, training your team and integrating with other critical applications.MiDas Technical Service Group is here to assist you through any part of the process and provides technical support...<br> 
@@ -63,7 +63,7 @@
 				<div class="container">
 					<div class="row justify-content-center align-items-center">
 						<div class="col-lg-8 col-md-12 home-about-left">
-							<h6 class="text-warning">Trust the MiDas Touch!</h6>
+						<!-- 	<h6 class="text-warning">Trust the MiDas Touch!</h6> -->
 							<h1>
 								Why Choose <br>
 								MiDas Technology?

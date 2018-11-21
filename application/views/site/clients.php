@@ -55,7 +55,7 @@
 				
 
 			<!-- End cat Area -->						
-<section class="service-area " id="service">
+<section class="service-area section-gap " id="service"  style="padding-top: 0;">
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-md-12 pb-30 header-text text-center">
@@ -66,7 +66,7 @@
 						</div>
 					</div>						
 					<div class="row">
-						<div class="col-lg-4">
+						<div class="col-lg-2">
 							<div class="single-service">
 								<div class="thumb">
 									<img src="http://[::1]/industry/site_assets/img/client1.jpg" alt="">									
@@ -74,7 +74,7 @@
 							
 							</div>
 						</div>
-						<div class="col-lg-4">
+						<div class="col-lg-2">
 							<div class="single-service">
 								<div class="thumb">
 									<img src="http://[::1]/industry/site_assets/img/client2.jpg" alt="">									
@@ -82,7 +82,7 @@
 								
 							</div>
 						</div>
-						<div class="col-lg-4">
+						<div class="col-lg-2">
 							<div class="single-service">
 								<div class="thumb">
 									<img src="http://[::1]/industry/site_assets/img/client3.jpg" alt="">									
@@ -90,9 +90,8 @@
 							
 							</div>
 						</div>												
-					</div>
-					<div class="row">
-						<div class="col-lg-4">
+					
+						<div class="col-lg-2">
 							<div class="single-service">
 								<div class="thumb">
 									<img src="http://[::1]/industry/site_assets/img/client4.jpg" alt="Pharmacy Management and Information System - PMIS">									
@@ -100,7 +99,7 @@
 								
 							</div>
 						</div>
-						<div class="col-lg-4">
+						<div class="col-lg-2">
 							<div class="single-service">
 								<div class="thumb">
 									<img src="http://[::1]/industry/site_assets/img/client5.jpg" alt="">									
@@ -108,21 +107,23 @@
 								
 							</div>
 						</div>
-						<div class="col-lg-4">
+						
+						<div class="col-lg-2">
 							<div class="single-service">
 								<div class="thumb">
-									<img src="http://[::1]/industry/site_assets/img/client6.jpg" alt="">									
+									<img src="http://[::1]/industry/site_assets/img/client1.jpg" alt="">									
 								</div>
 							
 							</div>
-						</div>												
+						</div>											
 					</div>
+					
 				</div>	
 			</section>
 			
 
 			<!-- Start faq Area -->
-			<section class="faq-area section-gap relative">
+<!-- 			<section class="faq-area section-gap relative">
 				<div class="overlay overlay-bg"></div>
 				<div class="container">
 					<div class="row justify-content-center align-items-center">
@@ -159,20 +160,10 @@
 								</p>
 							</div>
 						</div>
-						<!-- <div class="col-lg-3 col-md-6">
-							<div class="single-faq">
-								<div class="circle">
-								  <div class="inner"></div>
-								</div>
-								<h5 class="counter">367</h5>
-								<p>
-									Tickets Submited
-								</p>
-							</div>
-						</div> -->																		
+																						
 					</div>
 				</div>	
-			</section>
+			</section> -->
 			<!-- End faq Area -->
 						
 			<!-- Start feedback Area -->

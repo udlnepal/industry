@@ -25,8 +25,26 @@ ul.why_list li{
 .pad_lt_fix{
 	padding-left: 0;
 }
+.header-top{
+	background:#ff9f00 !important;
+}
 
-/*ul.nav-menu li a:hover{
-	border-bottom: 1px solid #FD9D17;
+.header-top a {
+    color: #262626 !important;
+    font-weight: bold;
+}
+.home-about-area{
+    background: #dadada;
+}
+
+ul.nav-menu li a:hover{
+	background: #FD9D17;
 	
-}*/
+}
+ul.foot_links li a{
+	color:#fff;
+}
+
+ul.foot_links li a:hover{
+	color:#ff9f00;
+}
