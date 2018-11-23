@@ -10,7 +10,7 @@
 								</p>
 								<p class="footer-text">
 									
-Copyright &copy; All rights reserved &nbsp;<a href="http://midastechnologies.com.np/" target="_blank">Midas Technologies Pvt. Ltd</a>
+Copyright &copy;&nbsp;<?php echo date('Y'); ?> All rights reserved &nbsp;<a href="http://midastechnologies.com.np/" target="_blank">Midas Technologies Pvt. Ltd</a>
 
 								</p>								
 							</div>
@@ -45,7 +45,7 @@ Copyright &copy; All rights reserved &nbsp;<a href="http://midastechnologies.com
 								<h6>Follow Us</h6>
 								<p>Let us be social</p>
 								<div class="footer-social d-flex align-items-center">
-									<a href="http://www.facebook.com/midastechnologies.com.np" target="_blank"><i style="color:#3b5998; font-weight: bold;" class="fa fa-facebook"></i></a>
+									<a  class="social_link" href="http://www.facebook.com/midastechnologies.com.np" target="_blank"><i style="color:#3b5998; font-weight: bold;" class="fa fa-facebook"></i></a>
 								<!-- 	<a href="#"><i class="fa fa-twitter"></i></a> -->
 									<!-- <a href="#"><i class="fa fa-dribbble"></i></a>
 									<a href="#"><i class="fa fa-behance"></i></a> -->

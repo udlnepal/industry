@@ -24,7 +24,7 @@
 					<div class="row">
 						<div class="col-lg-4">	
 							<div class="single-cat d-flex flex-column">
-								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-briefcase"></span></span></a>
+								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv business"><span class="lnr lnr-briefcase"></span></span></a>
 								<h4 class="mb-20" style="margin-top: 23px;">Business Solution</h4>
 								<p class="text-justify">
 									In today's business environment the only constant is the change. Business managers in order to manage the change need access to factual information in real-time. MiDas Technologies Pvt. Ltd., a member of MiDas Group helps business managers to take more effective decisions by converting multiple sources of data into useful...<br>
@@ -34,7 +34,7 @@
 						</div>
 						<div class="col-lg-4">	
 							<div class="single-cat">
-								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-cog"></span></span></a>
+								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv software"><span class="lnr lnr-cog"></span></span></a>
 								<h4 class="mt-40 mb-20">Software Development</h4>
 								<p class="text-justify">
 									Software development requires not only the right coding skills, but also people with the correct business sense.You need developers who understand your business and it's need for change, developers that can move with your requirements to ensure that the products developed integrate and grow with you. MiDas use permanent staff who are.<br>
@@ -44,7 +44,7 @@
 						</div>
 						<div class="col-lg-4">
 							<div class="single-cat">
-								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv"><span class="lnr lnr-bubble"></span></span></a>
+								<a href="#" class="hb-sm-margin mx-auto d-block"><span class="hb hb-sm inv hb-facebook-inv client"><span class="lnr lnr-bubble"></span></span></a>
 								<h4 class="mt-40 mb-20">Client Support</h4>
 								<p class="text-justify">
 									Purchasing or developing a software is just one part of the solution. Realizing the full benefit of any solution requires installing the software, converting legacy data, training your team and integrating with other critical applications.MiDas Technical Service Group is here to assist you through any part of the process and provides technical support...<br> 
@@ -77,7 +77,7 @@
 									<li>We are here for the long term</li>
 								</ul>
 							</p>
-							<a class="primary-btn" href="#">Get Started Now</a>
+							<a class="primary-btn" data-target="#quote" data-toggle="modal" href="#">Get Started Now</a>
 						</div>
 						<div class="col-lg-4 col-md-12 home-about-right relative" style="padding: 0">
 						<!-- 	<form class="form-wrap" action="#">
@@ -232,7 +232,7 @@
 							</div>
 						</div>												
 					</div>
-					<div class="row">
+					<div class="row section-gap">
 						<div class="col-lg-4">
 							<div class="single-service">
 								<div class="thumb">
@@ -270,3 +270,47 @@
 				</div>	
 			</section>
 		
+<div class="modal fade" id="quote" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Get Quote</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+       <section class="home-about-area pad_fix aboutus-about" id="about">
+				<div class="container">
+					<div class="row justify-content-center align-items-center">
+						
+						<div class="col-lg-12 col-md-12 home-about-right relative">
+							<form class="form-wrap" action="#">
+								<h4 class="text-white pb-20">Request a Quote</h4>
+								<div class="form-select" id="service-select"">
+									<select>
+										<option value="1">Select Service</option>
+										<option value="2">Service One</option>
+										<option value="3">Service Two</option>
+										<option value="4">Service Three</option>
+										<option value="5">Service Four</option>
+									</select>
+								</div>								
+								<input type="text" class="form-control" placeholder="name">
+								<input type="phone" class="form-control" placeholder="Phone Number">
+								<input type="email" class="form-control" placeholder="Email Address">
+								<textarea name="message" id="" cols="30" rows="5" placeholder="Message" class="form-control"></textarea>
+								<button class="primary-btn">Request Free Quote</button>
+							</form>
+						</div>
+					</div>
+				</div>	
+			</section>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+       <!--  <button type="button" class="btn btn-primary">Save changes</button> -->
+      </div>
+    </div>
+  </div>
+</div>

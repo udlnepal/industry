@@ -59,7 +59,7 @@
 							</div>
 						</div>												
 					</div>
-					<div class="row">
+					<div class="row section-gap">
 						<div class="col-lg-4">
 							<div class="single-service">
 								<div class="thumb">

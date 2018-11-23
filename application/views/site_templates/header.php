@@ -52,7 +52,7 @@
 				  			<div class="col-lg-6 col-sm-6 col-8 header-top-right no-padding">
 				  				<a href="<?php echo base_url('site_assets/'); ?>tel:+880 012 3654 896">+977-01-5526279</a>
 				  				<a href=""><span class="">info@midas.com.np</span></a>
-				  				<a href="http://www.facebook.com/midastechnologies.com.np" target="_blank"><i class="fa fa-facebook" style="color:#3b5998; font-weight: bold;"></i></a>				
+				  				<a class="social_link" href="http://www.facebook.com/midastechnologies.com.np" target="_blank"><i class="fa fa-facebook" style="color:#3b5998; font-weight: bold;"></i></a>				
 				  			</div>
 				  		</div>			  					
 		  			</div>

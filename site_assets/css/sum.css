@@ -41,10 +41,47 @@ ul.nav-menu li a:hover{
 	background: #FD9D17;
 	
 }
+ul.nav-menu li.active{
+background: #FD9D17;
+}
+
 ul.foot_links li a{
 	color:#fff;
 }
 
 ul.foot_links li a:hover{
 	color:#ff9f00;
+}
+.footer-area{
+	padding-top:0 !important;
+}
+.section-gap{
+	padding: 50px 0 !important;
+}
+a.social_link{
+	width: 25px;
+    height: 25px;
+    background: #fafafa;
+    padding: 5px 10px;
+    border-radius: 50%;
+}
+a.social_link:hover{
+	background:none;
+}
+
+
+.cat-area .hb-facebook-inv.business, .cat-area .hb-facebook-inv.business::after, .cat-area .hb-facebook-inv.business::before, .cat-area .hb-facebook:hover, .cat-area .hb-facebook:hover::after, .cat-area .hb-facebook:hover::before{
+	background: #f00 !important;
+	color:#fff;
+}
+
+.cat-area .hb-facebook-inv.software, .cat-area .hb-facebook-inv.software::after, .cat-area .hb-facebook-inv.software::before, .cat-area .hb-facebook:hover, .cat-area .hb-facebook:hover::after, .cat-area .hb-facebook:hover::before{
+	background: #0f0 !important;
+	color:#fff;
+}
+
+
+.cat-area .hb-facebook-inv.client, .cat-area .hb-facebook-inv.client::after, .cat-area .hb-facebook-inv.client::before, .cat-area .hb-facebook:hover, .cat-area .hb-facebook:hover::after, .cat-area .hb-facebook:hover::before{
+	background: #00f !important;
+	color:#fff;
 }
