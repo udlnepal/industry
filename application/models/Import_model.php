@@ -23,6 +23,16 @@ class Import_model extends CI_Model {
         $this->_batchImport = $batchImport;
     }
  
+
+   public function __construct()
+    {
+        $this->load->database();
+        $this->load->helper('url');
+
+    }
+
+
+
     // save data
     public function importData() {
         $data = $this->_batchImport;
