@@ -33,6 +33,8 @@ class Mdl_menus extends CI_Model {
     $query = $this->db->get();
     return $query->result_array();
   }
+
+  
 	
 	
   function generateTree($items = array(), $parent_id = 0){

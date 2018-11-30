@@ -18,6 +18,8 @@ class Menus extends CI_Controller {
 	function __construct() {
 		parent::__construct();
 		$this -> load -> model('Mdl_menus');
+		$this->load->helper('form');
+	
 	}
 	
 	function index() {
@@ -27,6 +29,14 @@ class Menus extends CI_Controller {
 			'menu' => $menu,
 		);
 		$this->load->view('menus/menu', $data, false);
+	}
+
+	function create(){
+		$data['menu_setup']=$this->Mdl_menus->get_items();
+		$this->load->view('templates/header');
+	//	$this->load->view('templates/headernav');
+		$this->load->view('menus/create_menu',$data);
+		$this->load->view('templates/footer');
 	}
 	
 }
