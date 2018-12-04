@@ -28,6 +28,7 @@ class Menus extends CI_Controller {
 		$data = array(
 			'menu' => $menu,
 		);
+		$data['menu_items']=$this->Mdl_menus->get_items();
 		$this->load->view('menus/menu', $data, false);
 	}
 
